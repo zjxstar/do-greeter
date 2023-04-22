@@ -1,6 +1,6 @@
 {
   "name": "zjx-do-greeter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A hello gretter",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -19,7 +19,10 @@
     "type": "git",
     "url": "git+https://github.com/zjxstar/do-gretter.git"
   },
-  "keywords": ["Hello", "Greeter"],
+  "keywords": [
+    "Hello",
+    "Greeter"
+  ],
   "author": "zjxstar",
   "license": "ISC",
   "bugs": {
